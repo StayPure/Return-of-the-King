@@ -1,0 +1,393 @@
+fileFormatVersion: 2
+guid: 30858f3e92e8d8841b8d32aa60988696
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5430999517422149680
+    second: anim_light3_0
+  - first:
+      213: -2898813171668484645
+    second: anim_light3_1
+  - first:
+      213: 5260457203871059119
+    second: anim_light3_2
+  - first:
+      213: -8535227738747681798
+    second: anim_light3_3
+  - first:
+      213: -589754326644173074
+    second: anim_light3_4
+  - first:
+      213: -4959299090971296076
+    second: anim_light3_5
+  - first:
+      213: -4764581952621044748
+    second: anim_light3_6
+  - first:
+      213: 8516405470332702512
+    second: anim_light3_7
+  - first:
+      213: -1494171112792401656
+    second: anim_light3_8
+  - first:
+      213: -5513211779411219212
+    second: anim_light3_9
+  - first:
+      213: 6116672965080394966
+    second: anim_light3_10
+  - first:
+      213: 6177245136136170399
+    second: anim_light3_11
+  - first:
+      213: 4234031373023225070
+    second: anim_light3_12
+  - first:
+      213: -6938609554203234785
+    second: anim_light3_13
+  - first:
+      213: 7083395757160150
+    second: anim_light3_14
+  - first:
+      213: -4782186007450417547
+    second: anim_light3_15
+  - first:
+      213: -1509241390235079380
+    second: anim_light3_16
+  - first:
+      213: 277531188276687114
+    second: anim_light3_17
+  - first:
+      213: 9178042154207085225
+    second: anim_light3_18
+  - first:
+      213: 1898154654081178561
+    second: anim_light3_19
+  - first:
+      213: -1655177944515894178
+    second: anim_light3_20
+  - first:
+      213: 190514004090075601
+    second: anim_light3_21
+  - first:
+      213: 6503987167662665873
+    second: anim_light3_22
+  - first:
+      213: -3283976429925722613
+    second: anim_light3_23
+  - first:
+      213: -1715427984326804302
+    second: anim_light3_24
+  - first:
+      213: 4763170072423701489
+    second: anim_light3_25
+  - first:
+      213: 3656230929861721295
+    second: anim_light3_26
+  - first:
+      213: -8671360531930583065
+    second: anim_light3_27
+  - first:
+      213: -3783861079758456833
+    second: anim_light3_28
+  - first:
+      213: -7553366187374894597
+    second: anim_light3_29
+  - first:
+      213: 9112374656088760416
+    second: anim_light3_30
+  - first:
+      213: -5835708856929720361
+    second: anim_light3_31
+  - first:
+      213: 5472776156774802065
+    second: anim_light3_32
+  - first:
+      213: -3077807665563734469
+    second: anim_light3_33
+  - first:
+      213: 6918723846011426241
+    second: anim_light3_34
+  - first:
+      213: 7641190183689288508
+    second: anim_light3_35
+  - first:
+      213: 311031822648127259
+    second: anim_light3_36
+  - first:
+      213: -8409580360647552769
+    second: anim_light3_37
+  - first:
+      213: 4091172735357744900
+    second: anim_light3_38
+  - first:
+      213: -7720617000958838204
+    second: anim_light3_39
+  - first:
+      213: 4741094084733260001
+    second: anim_light3_40
+  - first:
+      213: 7129621468064277681
+    second: anim_light3_41
+  - first:
+      213: -7070024817524509171
+    second: anim_light3_42
+  - first:
+      213: -1579428190512557461
+    second: anim_light3_43
+  - first:
+      213: 3225587620241045475
+    second: anim_light3_44
+  - first:
+      213: -4348338946968700523
+    second: anim_light3_45
+  - first:
+      213: 1903723936892691594
+    second: anim_light3_46
+  - first:
+      213: 7509355796476803803
+    second: anim_light3_47
+  - first:
+      213: -6476089411188184245
+    second: anim_light3_48
+  - first:
+      213: -46033293409514307
+    second: anim_light3_49
+  - first:
+      213: 8185983376961022852
+    second: anim_light3_50
+  - first:
+      213: -5598682567526728254
+    second: anim_light3_51
+  - first:
+      213: 7157961340958622117
+    second: anim_light3_52
+  - first:
+      213: -4828167377560093158
+    second: anim_light3_53
+  - first:
+      213: -7947975120506816154
+    second: anim_light3_54
+  - first:
+      213: 1630773520743010081
+    second: anim_light3_55
+  - first:
+      213: -7852803792817963674
+    second: anim_light3_56
+  - first:
+      213: -981868029998625783
+    second: anim_light3_57
+  - first:
+      213: 2400172339265152897
+    second: anim_light3_58
+  - first:
+      213: 4946892508726915308
+    second: anim_light3_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15.9
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anim_light3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df1cbca6b631a4b0800000000000000
+      internalID: -5430999517422149680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_light3_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddf97867c855c7d0800000000000000
+      internalID: -2898813171668484645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_light3_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac01e0b4f5e00940800000000000000
+      internalID: 5260457203871059119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_light3_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af342ead797cc8980800000000000000
+      internalID: -8535227738747681798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim_light3_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6df978095c0d7f0800000000000000
+      internalID: -589754326644173074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 498cf6800687ae24ab42d67d6dc035e7
+  - enabled: 1
+    path: Assets/Scenes/Game Scene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Player Death.unity
+    guid: 9c77ffff9666c4b49946e82fc3076d32
+  - enabled: 1
+    path: Assets/Scenes/Boss Kill.unity
+    guid: 4ed65a00ed194ef488fb6206cdbe0fcc
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: c22d16dcf3515ce4d81f5c261f9363c4,
+      type: 2}

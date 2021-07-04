@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerAttack
+  - Enemy
+  - EnemyAttack
+  - EnemyFlyer
+  - CheckpointList
+  - Ground
+  - Platform
+  - Location
+  - Walls
+  - BossFightDoor
+  - Health
+  - BossHealth
+  - Menu
+  - SoundController
+  - World Location
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Enivorment
+  - Background
+  - Interactable
+  - Enemies
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 874349757
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Characters
+    uniqueID: 618166463
+    locked: 0
+  - name: Foreground
+    uniqueID: 22469911
+    locked: 0
+  - name: UI
+    uniqueID: 3826040465
+    locked: 0
